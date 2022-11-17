@@ -23,3 +23,9 @@ My motivation for this project is to refactor the mockup so that its more access
 I built this project in order to learn more about CSS and html, as well as make it more presentable
 The project sovles the issue of unncessary code, and clears up the code too
 I learnt that HTML semantic elements help clear code of unncessary information. 
+
+## Credits 
+N/A
+
+## Licence 
+N/A
